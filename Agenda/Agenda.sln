@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda", "Jaguar\Agenda.csproj", "{470B4BE1-B6F7-4279-985D-FFAF8F37C652}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Agenda EdC", "Setup\Agenda EdC\Agenda EdC.vdproj", "{5D879141-A7DD-48DD-B60A-50A18D442589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470B4BE1-B6F7-4279-985D-FFAF8F37C652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470B4BE1-B6F7-4279-985D-FFAF8F37C652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470B4BE1-B6F7-4279-985D-FFAF8F37C652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470B4BE1-B6F7-4279-985D-FFAF8F37C652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D879141-A7DD-48DD-B60A-50A18D442589}.Debug|Any CPU.ActiveCfg = Debug
+		{5D879141-A7DD-48DD-B60A-50A18D442589}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E17544C-1253-478B-A798-D9A095905F60}
+	EndGlobalSection
+EndGlobal
